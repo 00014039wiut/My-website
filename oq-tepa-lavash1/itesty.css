@@ -1,0 +1,225 @@
+.nav{
+    display: flex;
+}
+.logo .img .svg{
+    max-width: 100%;
+    max-height: 100%;
+
+}
+.img{
+    border-style: none;
+    border-right: #2e2e33;
+    border: 2px;
+    display: inline-block;
+    width: 192px;
+    height: 100%;
+    padding: 12px 32px;
+    margin-right: 0;
+}
+img , svg {
+    vertical-align: middle;
+}
+.items{
+    
+    margin-top: 1.2em;
+    margin-left: 1.2em;
+    border-right: 2px, #2e2e33;
+
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.logo::after{
+    box-sizing: border-box;
+}
+.div.bar{
+    display: inline-flex;
+    justify-content: center;
+}
+.bar{
+    display: inline;
+}
+.items{
+    display: inline;
+    text-decoration: none;
+    position: relative;
+    text-align: center;
+}
+.nav-bar.bar{
+    justify-content: center;
+}
+.link{
+    justify-content:flex-end;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 1.2em;
+    border: 1em,solid black;
+    border-radius: 10%;
+    color: #2e2e33;
+    text-align: center;
+}
+
+
+
+#contact {
+    padding: 5rem 0;
+    background: rgb(226, 226, 226);
+  }
+  
+  .contact-container {
+    display: flex;
+    background: #fff;
+  }
+  
+  .contact-img {
+    width: 50%;
+  }
+  
+  .contact-img img {
+    display: block;
+    height: 400px;
+    width: 100%;
+    object-position: center;
+    object-fit: cover;
+  }
+  
+  .form-container {
+    padding: 1rem;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .form-container input {
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    padding: 1rem 0;
+    box-shadow: none;
+    outline: none;
+    margin-bottom: 1rem;
+    color: #444;
+    font-weight: 500;
+  }
+  
+  .form-container textarea {
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    color: #444;
+    outline: none;
+    padding: 1rem 0;
+    resize: none;
+  }
+  
+  .form-container h2 {
+    font-size: 2.7rem;
+    font-weight: 500;
+    color: #444;
+    margin-bottom: 1rem;
+    margin-top: -1.2rem;
+  }
+  
+  .form-container a {
+    font-size: 1.3rem;
+  }
+  
+  #footer h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    padding: 2.6rem;
+    font-weight: 500;
+    color: #fff;
+    background: rgb(65, 65, 65);
+  }
+  .tel{
+    margin: 36px;
+    font-size: 52px;
+    justify-content: center;
+  }
+  /* ........ Contact Us........... */
+
+#contact {
+    padding: 5rem 0;
+    background: rgb(226, 226, 226);
+  }
+  
+  .contact-container {
+    display: flex;
+    background: #fff;
+  }
+  
+  .contact-img {
+    width: 50%;
+  }
+  
+  .contact-img img {
+    display: block;
+    height: 400px;
+    width: 100%;
+    object-position: center;
+    object-fit: cover;
+  }
+  
+  .form-container {
+    padding: 1rem;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .form-container input {
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    padding: 1rem 0;
+    box-shadow: none;
+    outline: none;
+    margin-bottom: 1rem;
+    color: #444;
+    font-weight: 500;
+  }
+  
+  .form-container textarea {
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    color: #444;
+    outline: none;
+    padding: 1rem 0;
+    resize: none;
+  }
+  
+  .form-container h2 {
+    font-size: 2.7rem;
+    font-weight: 500;
+    color: #444;
+    margin-bottom: 1rem;
+    margin-top: -1.2rem;
+  }
+  
+  .form-container a {
+    font-size: 1.3rem;
+  }
+  
+  #footer h2 {
+    text-align: center;
+    font-size: 1.8rem;
+    padding: 2.6rem;
+    font-weight: 500;
+    color: #fff;
+    background: rgb(65, 65, 65);
+  }
+  .tel{
+    color: orange;
+    font-size: 36px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+  .tel:hover{
+    color: red;
+    border-radius: 10px;
+    border: none;
+  }
